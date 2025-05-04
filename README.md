@@ -1,7 +1,7 @@
 ![logo](https://github.com/yunomix2834/yunomix2834/blob/main/Lacie%20Wallpaper.jpg)
 
-<h1 align="center">Hi ( • ̀ω•́ )✧, I'm Yunomi Xavia, a big fan of Paper Lily series games</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h1 align="center">Hi ( • ̀ω•́ )✧, I'm Yunomi Xavia,</h1>
+<h3 align="center">A passionate developer from Vietnam and a big fan of Paper Lily series games (づ๑•ᴗ•๑)づ♡ h3>
 
 <img align="right" alt="lacie" width="350" src="https://media1.tenor.com/m/7cKZGPiE1YMAAAAC/paper-lily-lacie.gif">
 
