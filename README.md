@@ -3,7 +3,7 @@
 <h1 align="center">Hi ( • ̀ω•́ )✧, I'm Yunomi Xavia, a big fan of Paper Lily series games</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-<img align="right" alt="lacie" width="400" src="https://media1.tenor.com/m/7cKZGPiE1YMAAAAC/paper-lily-lacie.gif">
+<img align="right" alt="lacie" width="350" src="https://github.com/yunomix2834/yunomix2834/blob/main/Lacie.gif">
 
 - (˵ •̀ ᴗ - ˵ ) ✧ How to reach me **yunomix2834@gmail.com**
 
