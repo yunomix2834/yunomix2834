@@ -1,15 +1,15 @@
-![logo]()
+![logo](https://github.com/yunomix2834/yunomix2834/blob/main/Lacie%20Wallpaper.jpg)
 
 <h1 align="center">Hi ( • ̀ω•́ )✧,I'm Yunomi Xavia, a big fan of Paper Lily series games</h1>
 <h3 align="center">A passionate developer from Vietnam</h3>
 
-<img align="right" alt="lacie" width="400" src="https://media1.tenor.com/m/7cKZGPiE1YMAAAAC/paper-lily-lacie.gif">
+<img align="right" alt="lacie" width="300" src="https://media1.tenor.com/m/7cKZGPiE1YMAAAAC/paper-lily-lacie.gif">
 
 - (˵ •̀ ᴗ - ˵ ) ✧ How to reach me **yunomix2834@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/yunomix2834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yunomix2834" height="30" width="40" /></a>
+<a href="https://dev.to/yunomix2834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/yunomix2834" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
