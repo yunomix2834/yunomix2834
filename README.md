@@ -23,7 +23,5 @@
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yunomix2834&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yunomix2834&show_icons=true&locale=en&hide_border=true&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunomix2834&hide_border=true&theme=transparent" />
 </div>
